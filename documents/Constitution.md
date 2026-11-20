@@ -153,7 +153,9 @@ No member of the Committee shall be dismissed from office unless one of the foll
 
 A resolution to dismiss a Committee Member shall be passed by a simple majority vote at the relevant and quorate meeting.
 
-A Committee Member wishing to resign must submit a letter in writing declaring that intention to resign to the Secretary, who will immediately inform the Committee as a whole. The responsibilities of that person shall be delegated to other Committee Member(s) until a by-election can be held to re-elect a new person to the position.
+A Committee Member wishing to resign must submit a letter in writing declaring that intention to resign to the Secretary, who will immediately inform the Committee as a whole. Should the Secretary wish to resign, they shall submit this letter to the Chair, who will then inform the Committee as a whole.
+
+The responsibilities of that person shall be delegated to other Committee Member(s) until a by-election can be held to re-elect a new person to the position.
 
 ## 8 Meetings
 
